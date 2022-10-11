@@ -1,0 +1,6 @@
+a:2:{s:4:"name";s:5:"MHost";s:4:"text";s:21:"Remek összefoglaló!";}
+a:2:{s:4:"name";s:6:"ChairX";s:4:"text";s:33:"Nagyon jó vázlat, köszönjük!";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:14:"Nagyon klassz!";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:38:"Nézd, működik a komment-szekció <3";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:4:"Váo";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:19:"Yay, nem dob errort";}

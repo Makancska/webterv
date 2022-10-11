@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+
+	body {
+		background-image: url('img/ffff.jpg');
+		background-position: relative;
+		background-attachment: fixed;  
+		background-size: cover;
+		width: 1000px;
+		position:relative;
+		margin:auto;
+		margin-top:50px;
+		padding:10px;
+	}
+	
+	h1 {
+		font-size: 400%;
+		text-align: center;
+		font-family: 'Indie Flower', cursive;
+	}
+	
+	h2 {
+		text-align: center;
+		font-family: 'Playfair Display', serif;
+	}
+	
+	h3 {
+		font-family: 'Playfair Display', serif;
+	}
+	
+	p {
+		text-align: justify;
+	}
+	
+	li {
+		text-align: justify;
+	}
+	
+	#kep {
+		width: 230px;
+		height: 189px;
+		float: right; 
+		margin-left: 10px;
+		margin-top: 10px;
+	}
+	
+	.main {
+		border: 1px solid black;
+		padding: 25px;
+		background: rgba(255,255,255,0.7);
+		background-repeat: no-repeat;
+		font-family: 'Raleway', sans-serif;
+		font-weight: bold;
+		
+	}
+	
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	
+	#oldalsav {
+		width: 20%;
+		border-collapse: collapse;
+		position: absolute;
+		left: 10px;
+		top: 266px;
+		text-align: left;
+	}
+	
+	#kereses {
+		width: 15%;
+		border-collapse: collapse;
+		position: absolute;
+		left: 10px;
+		top: 540px;
+		text-align: left;
+		
+	}
+	
+	#hozzaszolas {
+		width: 15%;
+		border-collapse: collapse;
+		position: absolute;
+		left: 10px;
+		top: 725px;
+		text-align: left;
+	}
+	
+	#lab {
+		top: 100px;
+	}
+	
+	#tartalom {
+		width: 79%;
+		border-collapse: collapse;
+	}
+	
+	ul.fo {
+		font-family: 'Raleway', sans-serif;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: black;
+		border-radius: 10px;
+		position: static;
+	}
+	
+	
+	li {
+		float: left;
+	}
+	
+	li a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding: 20px 30px;
+		text-decoration: none;
+	}
+
+	li a:hover {
+		background-color: #E5DFBD;
+		color: black;
+		font-weight: bold;
+	}
+
+	li.projekt {
+		display: inline-block;
+	}
+	
+
+	.projekt-content {
+		display: none;
+		position: absolute;
+		background-color: white;
+		min-width: 200px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	}
+
+	.projekt-content a {
+		color: black;
+		padding: 20px 24px;
+		text-decoration: none;
+		display: block;
+		text-align: left;
+	}
+
+	.projekt-content a:hover {background-color: #E5DFBD;}
+
+	.projekt:hover .projekt-content {
+		display: block;
+	}

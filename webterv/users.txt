@@ -1,0 +1,6 @@
+a:7:{s:4:"name";s:6:"ChairX";s:3:"nem";s:5:"ferfi";s:4:"date";s:10:"2000-01-01";s:5:"email";s:18:"chair@freemail.com";s:2:"pw";s:9:"HoverOver";s:12:"hozzajarulas";a:1:{i:0;s:6:"muszaj";}s:8:"hirlevel";a:1:{i:0;s:4:"spam";}}
+a:7:{s:4:"name";s:5:"Daisy";s:3:"nem";s:2:"no";s:4:"date";s:10:"1999-04-01";s:5:"email";s:22:"daisycica@freemail.com";s:2:"pw";s:9:"Cats4Life";s:12:"hozzajarulas";a:1:{i:0;s:6:"muszaj";}s:8:"hirlevel";a:1:{i:0;s:4:"spam";}}
+a:7:{s:4:"name";s:11:"CouchPotato";s:3:"nem";s:2:"no";s:4:"date";s:10:"2001-04-08";s:5:"email";s:18:"mrt.peta@gmail.com";s:2:"pw";s:6:"Marpet";s:12:"hozzajarulas";s:6:"muszaj";s:8:"hirlevel";s:4:"spam";}
+a:7:{s:4:"name";s:5:"MHost";s:3:"nem";s:2:"no";s:4:"date";s:10:"1990-07-13";s:5:"email";s:18:"barmi@freemail.com";s:2:"pw";s:7:"FreeWay";s:12:"hozzajarulas";s:6:"muszaj";s:8:"hirlevel";s:4:"spam";}
+a:7:{s:4:"name";s:4:"cica";s:3:"nem";s:5:"egyeb";s:4:"date";s:10:"2003-06-10";s:5:"email";s:19:"valami@freemail.com";s:2:"pw";s:4:"cica";s:12:"hozzajarulas";s:6:"muszaj";s:8:"hirlevel";s:0:"";}
+a:7:{s:4:"name";s:3:"few";s:3:"nem";s:5:"egyeb";s:4:"date";s:10:"1999-11-11";s:5:"email";s:7:"few@few";s:2:"pw";s:3:"few";s:12:"hozzajarulas";s:6:"muszaj";s:8:"hirlevel";s:0:"";}

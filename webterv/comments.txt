@@ -1,0 +1,7 @@
+a:2:{s:4:"name";s:5:"MHost";s:4:"text";s:93:"Nagyon hasznosnak találtam a cikket, igyekszem átültetni gyakorlatba is az itt tanultakat.";}
+a:2:{s:4:"name";s:4:"cica";s:4:"text";s:40:"A stalker-es téma nem is olyan rossz :3";}
+a:2:{s:4:"name";s:6:"ChairX";s:4:"text";s:121:"Szuper ötlet, bár álmomban sem lenne olyan mázlim, hogy ilyen könnyű témát húzzak! Csináljatok valami extrát. ";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:20:"Oké, mi a franc van";}
+a:2:{s:4:"name";s:11:"CouchPotato";s:4:"text";s:38:"Nézd, működik a komment-szekció <3";}
+a:2:{s:4:"name";s:3:"few";s:4:"text";s:6:"de jó";}
+a:2:{s:4:"name";s:3:"few";s:4:"text";s:6:"de jó";}
